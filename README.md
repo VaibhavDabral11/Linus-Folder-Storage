@@ -60,7 +60,7 @@ This will display the total disk usage of the current directory along with the t
 
 ### Note that the amount of RAM used by a directory is only an estimate, as the operating system uses a complex memory management system that can allocate and free memory dynamically based on the demands of the system and other applications.
 
-## How to check the gpu using of any folder using Linus commands ?
+## How to check the gpu usage of any folder using Linus commands ?
 
 To check the GPU usage by a folder in Linux, you can use the nvidia-smi command if you have an `NVIDIA GPU`, or the rocm-smi command if you have an `AMD GPU`. Here's how to do it using both commands:
 
